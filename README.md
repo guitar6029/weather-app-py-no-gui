@@ -1,4 +1,6 @@
 🌦️ Weather App
+
+
 Welcome to the Weather App! This simple Python-based application fetches weather information for any city and provides the current temperature in either Celsius or Fahrenheit.
 
 🚀 Technologies Used
